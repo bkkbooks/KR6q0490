@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0490/v1
 canonical_location: https://kanripo.org/bkk/KR6q0490/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 蘇州竹庵衍禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0490_000.yaml, hash: 'sha256:852c8009b3848650e4352c6543af95f39dfa22aa5d741a612a4e9521994aa359'}
-  - {seq: 1, filename: KR6q0490_001.yaml, hash: 'sha256:81182ddb7c5651601081c5cd19fb45b8e4138de4e4ab7cb415988319d9d338ed'}
-  - {seq: 2, filename: KR6q0490_002.yaml, hash: 'sha256:51e52e207649cfd487127e6d01a82579404ef9511ddc651db11d1c6ef268fb09'}
+  - {seq: 0, filename: KR6q0490_000.yaml, hash: 'sha256:b33dfc5882c84a55dc4c59bcb52beaaf0089a947cff556c0692de42d80f888ee'}
+  - {seq: 1, filename: KR6q0490_001.yaml, hash: 'sha256:2d5a889abce12cef747d2768cf5a2ef61312f7162877d4160ad178c087bcd067'}
+  - {seq: 2, filename: KR6q0490_002.yaml, hash: 'sha256:99f1d64f5782fcf320a517d7f8dfbde1a34c07b975f59163f7204aae961c1db9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0490_000.markers.yaml, hash: 'sha256:d38ce662a43759f8d4551cfbdd3a22bdd6d053cb529c40b3f45258840abf780f'}
-  - {seq: 1, role: markers, filename: assets/KR6q0490_001.markers.yaml, hash: 'sha256:495b25941eeb11262244a18e2cc14574044f2e41281e3fd1a04be6f1610a0ceb'}
-  - {seq: 2, role: markers, filename: assets/KR6q0490_002.markers.yaml, hash: 'sha256:425ef543a8a98a777ac423d216d3aa7c2c860071725cced2146f07600c5eda0a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0490_000.markers.yaml, hash: 'sha256:6d3b386dfe89487a28ec503f3e5e7393f2bf0e26ad898f627bba38fce4efc583'}
+  - {seq: 1, role: markers, filename: assets/KR6q0490_001.markers.yaml, hash: 'sha256:4e579c4e780d4584ec13e9562be924fe52cae7332c7cee3261136000f5808df0'}
+  - {seq: 2, role: markers, filename: assets/KR6q0490_002.markers.yaml, hash: 'sha256:15c94c6d2cecd2593c9fe4b838d2d4e1613110d45a937da5223e7b4d31182378'}
 table_of_contents:
 - ref:
     seq: 0
@@ -529,4 +529,7 @@ table_of_contents:
   label: 附刻禪燈和尚為先和尚舉火法語
   type: mulu
   level: 1
-hash: sha256:aa141f244a138fdf3dffc1c468a4caa5b77f8870a7ed6175fae662d5708e71d4
+hash: sha256:2b615c31b8192484b27f449fa8dcb54e2b11c4a8f12fba05f13915a06d8098b1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
