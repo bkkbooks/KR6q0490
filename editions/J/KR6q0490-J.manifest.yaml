@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0490_000-J.yaml, hash: 'sha256:852c8009b3848650e4352c6543af95f39dfa22aa5d741a612a4e9521994aa359'}
+  - {seq: 0, filename: KR6q0490_000-J.yaml, hash: 'sha256:7480a026eb98dfce0f07acd1a65ddc5f3476fae3b2fc1c78e5196890baa9b263'}
   - {seq: 1, filename: KR6q0490_001-J.yaml, hash: 'sha256:81182ddb7c5651601081c5cd19fb45b8e4138de4e4ab7cb415988319d9d338ed'}
   - {seq: 2, filename: KR6q0490_002-J.yaml, hash: 'sha256:51e52e207649cfd487127e6d01a82579404ef9511ddc651db11d1c6ef268fb09'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0490_000-J.markers.yaml, hash: 'sha256:f5c957f115e58b166090b1a864bec925a45ad5a60eced8547215e0150f9e57b2'}
+  - {seq: 0, role: markers, filename: assets/KR6q0490_000-J.markers.yaml, hash: 'sha256:dffce54d83c9aaf5fc5ff02f949524c16bc4bfb0a0f6be0fbeac8910d4d2252a'}
   - {seq: 1, role: markers, filename: assets/KR6q0490_001-J.markers.yaml, hash: 'sha256:469c8842558f7823a4a071f6bdfe636214d3b0b3a4a2ef4b56c5c15ff93f3305'}
   - {seq: 2, role: markers, filename: assets/KR6q0490_002-J.markers.yaml, hash: 'sha256:7158b5dc452907eff01f8e0a8cbdf291042519a8e4321b190dc4bb5e4e594feb'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0490_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0490_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 黃與堅序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0490_J_000-mulu-3
     span:
-    - front
+    - body
     - 460
     - 460
   label: 黃永序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0490_J_000-mulu-4
     span:
-    - front
+    - body
     - 1070
     - 1070
   label: 羅真性序
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0490_J_000-mulu-5
     span:
-    - front
+    - body
     - 1336
     - 1336
   label: 目次
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0490_J_000-mulu-6
     span:
-    - front
+    - body
     - 1385
     - 1385
   label: 竹菴和尚傳
@@ -527,4 +527,4 @@ table_of_contents:
   label: 附刻禪燈和尚為先和尚舉火法語
   type: mulu
   level: 1
-hash: sha256:58940d3ac942eb28b781b6341af35a9cfab1a4b0e9a4592cf00a06dab0b3582d
+hash: sha256:f672f9ac9cbc9eaba14386f6b2b2bbe4b8f3421aa61461c2e846e3b14aeab5f0
